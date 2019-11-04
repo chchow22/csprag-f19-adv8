@@ -1,1 +1,1 @@
-https://travis-ci.org/chchow22/csprag-f19-adv8.svg?branch=master
+[![Build Status](https://travis-ci.org/chchow22/csprag-f19-adv8.svg?branch=master)](https://travis-ci.org/chchow22/csprag-f19-adv8)
