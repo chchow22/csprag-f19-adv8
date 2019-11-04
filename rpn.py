@@ -29,6 +29,9 @@ def calculate(myarg):
     return stack.pop()
 
 def main():
+    for i in range(5):
+        j = 1
+
     while True:
         result = calculate(input("rpn calc> "))
         print("Result: ", result)
